@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "async-rate-limiter"
+version = "0.1.0"
+description = "High-throughput asynchronous rate limiting library for Python and FastAPI with Token Bucket and Sliding Window algorithms."
+readme = "README.md"
+authors = [{ name = "Milind Chatrabhuji", email = "milind.chatrabhuji@gmail.com" }]
+license = { text = "MIT" }
+requires-python = ">=3.9"
+
+[project.urls]
+Homepage = "https://github.com/MilindChatrabhuji/async-rate-limiter"
+Repository = "https://github.com/MilindChatrabhuji/async-rate-limiter"
