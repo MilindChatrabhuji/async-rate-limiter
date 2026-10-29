@@ -1,5 +1,12 @@
 # Async Rate Limiter ⏱️
 
+[![NexusPulse EdgeSaaS](https://raw.githubusercontent.com/MilindChatrabhuji/Earning-Machine/main/distribution/digital_assets/edgesaas-banner-readme.svg)](https://edgesaas.nexus-pulse.com)
+
+> ⚡ **Need edge sliding-window rate limiting for Cloudflare Workers?** Check out [**NexusPulse EdgeSaaS**](https://edgesaas.nexus-pulse.com) — production edge boilerplate with KV rate limiting, Hono router, and turnkey Stripe checkout.
+
+---
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![FastAPI Ready](https://img.shields.io/badge/FastAPI-Compatible-009688.svg)](https://fastapi.tiangolo.com/)
